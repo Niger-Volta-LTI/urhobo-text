@@ -1,0 +1,155 @@
+ENG: Survey on the number of persons with symptoms compatible with COVID-19
+URH: Kpakpata vẹ emekashe rọyen buebun ri vwo uruemu rẹ omaẹkparọ vwẹ COVID-19.
+
+
+ENG: We are an international team of scientists from several research institutions around the world that tries to collect data that may be used to estimate the number of persons with symptoms compatible with COVID-19 in different countries, and how this number evolves over time.
+URH: Ofori nẹ e yono kpahen isayẹnsi vẹ egbaerianriẹn vwẹ akpọneje, rere e se vwo phi ofẹnẹ rọhẹ oma rẹ akpọ na phiyọ uherevie rẹ ubrotọ rẹ COVID-19.
+
+
+ENG: Please answer this survey once a day, even if your answers do not change.
+URH: Biko roro kpahen ẹkpahọnphiyọ rẹ onọ yena jovwo, ọ da tobọ dianẹ wọ cha nọ enọ na-a.
+
+
+ENG: Pressing the "submit" button implies explicit consent of the following terms of this survey:
+URH: Ẹnwan nana churobọ si erọnvwọn buebun re sa nẹrhẹ e wene eta nana.
+
+
+ENG: The data collected will be made public under the Open Data Commons Attribution License.
+URH: Imuoshọ ro nẹ otọ rẹ usuon rẹ ẹkuotọ na rhe che phi "Open Data Commons Attribution License".
+
+
+ENG:  Data are collected in an anonymous form. 
+URH:  Djekpahọn, o vwo asan rọ pha rhuarho.
+
+
+ENG: The researchers cannot backtrace the data to the participants.
+URH: Iyẹnrẹn rẹ erọnvwọn re cha sa chọrọ ohwo ẹro-o.
+
+
+ENG: Data can not be modified nor deleted once the survey is completed.
+URH: O vwo ohwo vuọvo rọ sa vwẹ oma rọyen vwo rhuo-u.
+
+
+ENG: "Cookies" are used to match responses from the same participant, which will be identified with a random string. 
+URH: "Cookies" rẹ ẹrenren na ji vwo oniso rẹ obo re cha phia vwẹ obaro na.
+
+
+ENG: This string will be made public with the response.
+URH: Ọnana cha nẹrhẹ ihwo na kerhọ kẹ iyẹnrẹn esiri na.
+
+
+ENG: In case of comments or questions regarding data protection, you may contact Antonio Fernández Anta at IMDEA Networks Institute, Spain, at coronasurveys@gmail.com with the subject “coronasurveys”
+URH: Wọ da nọ enọ kpahen enọ yẹrẹ ochọnvwe rẹ Antonio Fernández Anta at IMDEA Networks Institute, Spain: “coronasurveys”
+
+
+ENG: Please, choose a country.
+URH: Biko sane ẹkuotọ                                                                       
+
+
+ENG: You can fill the survey several times for different countries if you know people there.
+URH: Wọ sa vwẹ ihuvwun evo vwo sheri kẹ wẹ siẹrẹ ihwo de vughe uwe.
+
+
+ENG: Please, choose a region in the country.
+URH: Biko sane vwẹ ẹkuotọ na.
+
+
+ENG: If the option “Entire country” is chosen, the questions below refer to the whole country. 
+URH: Ọ da dia ọtiọyen, “ẹkuotọ” ọyen ẹkuotọ rẹ hepha.
+
+
+ENG: You can fill the survey several times for different regions. 
+URH: Wọ sa vwẹ ihuvwun egangan vwo sheri kẹ ayen.
+
+
+ENG: Please do not fill the survey for some region AND for the entire country.
+URH: Biko roro kpahen obo re cha phia kẹ ọmọ na-a.
+
+
+ENG: How many people do you know personally in this region?
+URH: Mavọ yen ihwobuebu ru riẹn kpahen ẹdia nana?
+
+
+ENG: Include only those whose health status you are likely to be aware of.
+URH: Durhie ọvo kẹ ihwo ri vwo omakpokpọ.
+
+
+ENG: To the best of your knowledge, how many of the people you know in this region have been diagnosed or have had symptoms compatible with COVID-19?
+URH: Rere wọ sa vwọ riẹn oborẹ erianriẹn wẹn teri, kẹ mavọ yen wọ vwọ riẹn nẹ ihwo ri vwo uruemu rẹ omaẹkparọ yẹrẹ COVID-19?
+
+
+ENG: Include those who had the symptoms and have recovered.
+URH: Djekpahọn, ihwo ri vwo uruemu rẹ omaẹkparọ.
+
+
+ENG: Common symptoms include fever, tiredness, dry cough. 
+URH: Erhọ yen eka evo rẹ odo, guoguo, ówọrhe.
+
+
+ENG: Other symptoms include shortness of breath, aches and pains, sore throat, and very few people will report diarrhoea, nausea or a runny nose. 
+URH: Omaẹkparọ je vọn asan eje, ihwo re djoma, vẹ ega cha riemu-u.
+
+
+ENG: From the WHO webpage
+URH: No' obọ rẹ WHO webpage
+
+
+ENG: From these, how many have recovered?
+URH: Evu re na, bro oma raye gare?
+
+
+ENG: How many passed away?
+URH: Bro ghwuru?                                                                 
+
+
+ENG: To the best of your knowledge, how many of the people you know in this region have been tested?
+URH: Ki ro obo erianriẹn teri, bri iwho ra adanvweni evu rẹ ubrotọ na?                                                          
+
+
+ENG: Include those tested for the coronavirus and for virus antibodies.
+URH: Roro vwọ ba iwho vọ ọgana ra adavweni  vẹ iwho ra adavweni ifọkirẹ ifue rọ ọgana                                           
+
+
+ENG: How many of those tested were positive?
+URH: Usu ri ihwo ra adavweni na, bro wọ ọgana?
+
+
+ENG: To the best of your knowledge, how many of the people you know in this region have been taken to the hospital for COVID-19?
+URH: Rere wọ sa vwọ riẹn oborẹ erianriẹn wẹn teri, mavọ yen wọ vwọ riẹn nẹ ihwo re djẹ nẹ ẹkuotọ ọfa rhe?
+
+
+ENG: From those taken to the hospital, how many were severe cases?
+URH: Nẹ ọke yena yanran, mavọ yen ihwobuebu vwọ ghọ erhorha?
+
+
+ENG: From those taken to the hospital, how many were in the ICU?
+URH: Nẹ ọke yena yanran, mavọ yen ihwobuebu vwọ ghọ erhorha?
+
+
+ENG: Did you hear about this survey from someone you know personally?
+URH: Wo nyo eta nana re sa nẹrhẹ wọ riẹn wẹ komobọ?
+
+
+ENG: Is this the first time you complete this survey?
+URH: Ọyena yen obọ rẹsosuọ wọ vwọ họnra?
+
+
+ENG: Did you forward this survey to people you know personally?
+URH: Wọ rhẹro rẹ ọke nana rẹ ihwo cha vwọ riẹn wẹ komobọ?
+
+
+ENG: Thank you!
+URH: Wo ruru!
+
+
+ENG: Thank you for your answer. 
+URH: É􏰁kpé􏰁vwé􏰁 vwọ kẹ ẹkpávwiyo wẹn.
+
+
+ENG: The results of this poll will be available at .
+URH: A cha mrẹ vwẹ iruo nana vwẹ wẹbsaiti nana: https://coronasurveys.org
+
+
+ENG: Please answer this survey once a day, even if your answers do not change.
+URH: Biko roro kpahen ẹkpahọnphiyọ rẹ onọ yena jovwo, ọ da tobọ dianẹ wọ cha nọ enọ na-a.
+
