@@ -91,27 +91,26 @@ URH: Omaẹkparọ je vọn asan eje, ihwo re djoma, vẹ ega cha riemu-u.
 
 
 ENG: From the WHO webpage
-URH: Wẹbsaiti nana, WHO
+URH: No' obọ rẹ WHO webpage
 
 
 ENG: From these, how many have recovered?
-URH: Nọ oma wẹn: Mavọ yen buebun vwo yerin ghene ẹdia nana?
+URH: Evu re na, bro oma raye gare?
 
 
 ENG: How many passed away?
-URH: Mavọ yen ihwobuebu se vwo yerin ghene ẹdia nana?                                                                  
-
+URH: Bro ghwuru?                                                   
 
 ENG: To the best of your knowledge, how many of the people you know in this region have been tested?
-URH: Mavọ yen erianriẹn wẹn vwọ kẹ ihwo buebu, kẹ mavọ yen wọ vwọ                                                             
+URH: Ki ro obo erianriẹn teri, bri ihwo ra adanvweni evu rẹ ubrotọ na?
 
 
 ENG: Include those tested for the coronavirus and for virus antibodies.
-URH: Durhie ayen vwọ kẹ udemu coronavirus                                                      
+URH: Roro vwọ ba ihwo vọ ọgana ra adavweni vẹ ihwo ra adavweni ifọkirẹ ifue rọ ọgana                                         
 
 
 ENG: How many of those tested were positive?
-URH: Mavọ yen ihwobuebu vwo erhuvwu te?
+URH: Usu ri ihwo ra adavweni na, bro wọ ọgana?
 
 
 ENG: To the best of your knowledge, how many of the people you know in this region have been taken to the hospital for COVID-19?
